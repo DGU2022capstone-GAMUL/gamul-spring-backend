@@ -114,4 +114,4 @@ tasks.named('test') {
 |:---:|:---------:|:---:|:---:|
 | <img src="https://user-images.githubusercontent.com/65756225/208081193-b340e86a-eb8e-431c-a4d1-0716b368d01f.png" width="200px" /> | <img src="https://user-images.githubusercontent.com/65756225/208077417-befedafa-7bc9-475d-88d0-edfd8ceb6de3.jpeg" width="200px" /> | <img src="https://user-images.githubusercontent.com/65756225/208081475-0b5e5188-bef9-4ace-9b02-48360988f57f.png" width="200px" /> | <img src="https://user-images.githubusercontent.com/65756225/208081903-7d75816e-acde-48a4-b476-645e28f2dba4.png" width="200px" /> |
 |[shyjnnn](https://github.com/shyjnnn)|[moonn6pence](https://github.com/moonn6pence) | [jiyoungzero](https://github.com/jiyoungzero) |[CaliSeoul](https://github.com/CaliSeoul)|
-| *React*, *AWS https배포(Doker+NGINX)* | *SpringBoot*, *PostgreSQL* | *Django* | *AI(YOLOv3)* |
+| *React*, *AWS https배포(Docker+NGINX)* | *SpringBoot*, *PostgreSQL* | *Django* | *AI(YOLOv3)* |
