@@ -19,7 +19,7 @@
 ---
 # 📚 개발 환경
 
-> ## Spring Stack <br>
+> ## BE Stack <br>
 > ![img](https://img.shields.io/badge/java-11-orange)
 > ![img](https://img.shields.io/badge/springboot-2.7.4-green)
 > ![img](https://img.shields.io/badge/postgresql-42.5.1-blue)
